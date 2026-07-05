@@ -5,8 +5,8 @@
 **Sinh viên thực hiện**
 | MSSV | Họ và tên |
 |---|---|
-| 23119048 | Huỳnh Võ Gia Bảo |
-| 23119050 | Nguyễn Thế Bảo |
+| | Huỳnh Võ Gia Bảo |
+| | Nguyễn Thế Bảo |
 
 **GVHD:** PGS.TS. Phan Văn Ca
 
